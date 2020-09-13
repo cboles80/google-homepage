@@ -1,0 +1,1 @@
+This page emulates the Google Homepage.
