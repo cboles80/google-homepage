@@ -1,0 +1,20 @@
+body{
+    background-color:#fff;
+}
+
+main {
+    text-align: center;
+}
+
+.logo {
+    border: solid brown 1px;
+}
+
+.searchbar {
+    border: solid 1px lightgray;
+    width: 425px;
+    height: 50px;
+    margin: 0 auto;
+    border-radius: 25px;
+    margin-top: 1em;
+}
