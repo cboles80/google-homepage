@@ -1,0 +1,41 @@
+[33mcommit 2144128d7be85963983f8dbed4c81c45a0380a97[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Chris Boles <cboles80@gmail.com>
+Date:   Wed Sep 16 08:33:47 2020 -0700
+
+    blank line cleanup
+
+[33mcommit 34a3f241c3c71df848ab848e5cfeda1ccf108fab[m
+Author: Chris Boles <cboles80@gmail.com>
+Date:   Wed Sep 16 08:30:57 2020 -0700
+
+    initial load
+
+[33mcommit c801e5162cdfc36255bff205672e0da2bfa5d531[m
+Author: Chris Boles <cboles80@gmail.com>
+Date:   Wed Sep 16 08:30:18 2020 -0700
+
+    initial styles from html head into file
+
+[33mcommit 14419d2aab01d52f728299c51d99b1861996e23e[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Chris Boles <cboles80@gmail.com>
+Date:   Wed Sep 16 08:21:02 2020 -0700
+
+    Basic Markup Complete
+
+[33mcommit 472077151088908bde5fb988cf0f8d693ef171d5[m
+Author: Chris Boles <cboles80@gmail.com>
+Date:   Sat Sep 12 18:39:43 2020 -0700
+
+    Created index.html and style.css
+
+[33mcommit 060784124d9a1fcff89e86fc53954034da1d5c95[m
+Author: Chris Boles <cboles80@gmail.com>
+Date:   Sat Sep 12 18:21:54 2020 -0700
+
+    Edited README.md
+
+[33mcommit 0291b017180bc251582ca799cc577693ceebbfc4[m
+Author: Chris Boles <cboles80@gmail.com>
+Date:   Thu Sep 3 23:52:01 2020 -0700
+
+    Add README.md

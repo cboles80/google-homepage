@@ -1,20 +1,49 @@
 body{
+    margin: 0;
+    padding: 0;
     background-color:#fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header,
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+header ul,
+footer ul {
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+}
+
+header li,
+footer li {
+    list-style: none;
+    padding: 0 0.5em 0 0.5em;
+}
+
+header li a,
+footer li a{
+    text-decoration: none;
 }
 
 main {
     text-align: center;
 }
 
-.logo {
-    border: solid brown 1px;
-}
-
 .searchbar {
     border: solid 1px lightgray;
-    width: 425px;
+    width: 300px;
     height: 50px;
     margin: 0 auto;
     border-radius: 25px;
     margin-top: 1em;
+}
+
+button {
+    margin: 0 auto;
 }
