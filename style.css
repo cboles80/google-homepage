@@ -83,6 +83,7 @@ body{
 header {
     margin-bottom: 6em;
     font-size: 13px;
+    padding: 1em 0;
 }
 
 header a{
@@ -96,9 +97,9 @@ header a:hover{
 .signin {
     background-color: #4387fc;
     color: white;
-    padding: 0.75em;
+    padding: 0.75em 1em;
     border-radius: 2px;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 .signin:hover {
@@ -107,7 +108,6 @@ header a:hover{
 
 header,
 footer {
-    padding: 0.5em 2em;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -124,7 +124,7 @@ footer ul {
 header li,
 footer li {
     list-style: none;
-    padding: 0 0.5em 0 0.5em;
+    padding: 0 1em 0 1em;
 }
 
 header a,
@@ -172,7 +172,7 @@ button {
     border: none;
     text-align: center;
     text-decoration: none;
-    font-size: 0.75em;
+    font-size: 1em;
     border-radius: 3px;
 }
 
@@ -186,6 +186,7 @@ footer {
     width: 100%;
     border-top: solid #e4e4e4 1px;
     margin-top: 8em;
+    padding: 0.5em 0 0.5em 0;
     background-color: #f2f2f2;
     font-size: 14px;
 }
