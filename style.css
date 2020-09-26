@@ -98,7 +98,7 @@ header a:hover{
     color: white;
     padding: 0.75em;
     border-radius: 2px;
-    font-weight: 800;
+    font-weight: 400;
 }
 
 .signin:hover {
@@ -107,7 +107,7 @@ header a:hover{
 
 header,
 footer {
-    padding: 1em;
+    padding: 2em;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -161,12 +161,12 @@ form svg {
 }
 
 .buttons {
-    margin: 2em;
+    margin: 2.5em;
 }
 
 button {
     margin: 0 auto;
-    padding: 0.5em;
+    padding: 0.75em;
     background-color: #f4f4f4;
     color: #5f6368;
     border: none;
