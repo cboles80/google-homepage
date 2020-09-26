@@ -98,7 +98,7 @@ header a:hover{
     color: white;
     padding: 0.75em;
     border-radius: 2px;
-    font-weight: 400;
+    font-weight: 500;
 }
 
 .signin:hover {
@@ -107,7 +107,7 @@ header a:hover{
 
 header,
 footer {
-    padding: 2em;
+    padding: 0.5em 2em;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
