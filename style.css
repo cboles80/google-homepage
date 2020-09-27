@@ -81,7 +81,8 @@ body{
 }
 
 header {
-    margin-bottom: 6em;
+    margin: 0 1em 7.5em 1em;
+    margin-bottom: 7.5em;
     font-size: 13px;
     padding: 1em 0;
 }
@@ -111,6 +112,7 @@ footer {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    /* padding: 0 0.5em 0 0.5em; */
 }
 
 header ul,
@@ -124,7 +126,7 @@ footer ul {
 header li,
 footer li {
     list-style: none;
-    padding: 0 1em 0 1em;
+    padding: 0.75em 1em;
 }
 
 header a,
